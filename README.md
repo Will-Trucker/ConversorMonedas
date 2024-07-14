@@ -2,7 +2,8 @@
 
 ## Desarrollado por
 
-- [@Will-Trucker]| [<img src="[https://avatars.githubusercontent.com/u/37356058?v=4" width=115]><br><sub>William Mazariego</sub>](https://github.com/Will-Trucker) |
+- | [<img src="https://avatars.githubusercontent.com/u/83888568?v=4"><br><sub>William Mazariego</sub>](https://github.com/Will-Trucker/) |||
+  | :---: | :---: | :---: |
 
 ## Instalacion
 
