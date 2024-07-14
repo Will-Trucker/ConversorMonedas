@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61758ed7-84fd-4a5e-bfcf-4cd26513da6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorMonedas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conversor Monedas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/currencyconverter/ConsultDivisa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/currencyconverter/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/currencyconverter/ExchangeRateService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/currencyconverter/RateResponse.java" afterDir="false" />
+    <list default="true" id="61758ed7-84fd-4a5e-bfcf-4cd26513da6e" name="Changes" comment="Repositorio de Conversor Monedas ALURA">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,11 +84,24 @@
       <option name="presentableId" value="Default" />
       <updated>1720830874003</updated>
       <workItem from="1720830875429" duration="2845000" />
-      <workItem from="1720833862717" duration="4445000" />
+      <workItem from="1720833862717" duration="4964000" />
     </task>
+    <task id="LOCAL-00001" summary="Repositorio de Conversor Monedas ALURA">
+      <option name="closed" value="true" />
+      <created>1720992506606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720992506606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Repositorio de Conversor Monedas ALURA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Repositorio de Conversor Monedas ALURA" />
   </component>
 </project>
